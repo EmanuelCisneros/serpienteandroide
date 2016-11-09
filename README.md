@@ -2,7 +2,7 @@ Juego de la serpiente simple, hecho con Python utilizando Kivy y su librería gr
 
 Los comandos son:
 
-# Una vez estando en la carpeta del proyecto que desea transformar a APK, creará la carpeta buildozer.spec, donde se configuran las opciones generales del juego (en mí caso ya está creada).
+# Una vez estando en la carpeta del proyecto que desea transformar a APK, creará el archivo buildozer.spec, donde se configuran las opciones generales del juego (en mí caso ya está creado).
 $buildozer init 
 
 #Para crear la carpeta ./bin donde se creará la aplicación.
